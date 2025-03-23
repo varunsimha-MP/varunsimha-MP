@@ -8,8 +8,7 @@ A Dynamic Cloud & Server Engineer with 1.9+ years of experience in cloud infrast
 https://www.linkedin.com/in/varunsimha-m-p-2a90591b5/
 
 **Skills:**
-Cloud Platforms: AWS (EC2, ECS, RDS, S3, IAM, Route 53, Lambda, CloudWatch and many more) | Azure (VM, 
-VNets, backups, monitor alerts) 
+Cloud Platforms: AWS (EC2, ECS, RDS, S3, IAM, Route 53, Lambda, CloudWatch and many more) | Azure (VM, VNets, backups, monitor alerts) 
 DevOps Tools: Docker, Git, CI/CD Pipeline (Jenkins, GitHub Actions). 
 Infrastructure as code: Terraform, Ansible. 
 Operating System: Linux (Red hat, CentOS, Ubuntu, Debian), Windows. 
