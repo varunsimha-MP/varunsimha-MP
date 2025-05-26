@@ -1,6 +1,6 @@
                                                         **Hi 👋, I'm Varunsimha M P**
                                                                        
-A Dynamic Cloud & Server Engineer with 1.10+ years of experience in cloud infrastructure, hybrid cloud, automation, system administration, and troubleshooting. Proficient in AWS, Linux (RHEL, CentOS, Ubuntu), Azure, Windows Server, Docker, Ansible, Terraform and CI/CD pipelines (Jenkins, GitHub Actions). Expertise in cloud security, auto-scaling architecture, server virtualization, and infrastructure optimization. Proven track record in managing customer queries, providing exceptional service, and solving complex technical issues efficiently. Excellent communicator with strong time management skills, committed to continuous learning and professional growth. 
+A Dynamic Cloud & Server Engineer with 1.11+ years of experience in cloud infrastructure, hybrid cloud, automation, system administration, and troubleshooting. Proficient in AWS, Linux (RHEL, CentOS, Ubuntu), Azure, Windows Server, Docker, Ansible, Terraform and CI/CD pipelines (Jenkins, GitHub Actions). Expertise in cloud security, auto-scaling architecture, server virtualization, and infrastructure optimization. Proven track record in managing customer queries, providing exceptional service, and solving complex technical issues efficiently. Excellent communicator with strong time management skills, committed to continuous learning and professional growth. 
 
 📞 How to reach me varunsimha90@gmail.com
 
