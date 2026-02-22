@@ -1,6 +1,6 @@
                                                         **Hi 👋, I'm Varunsimha M P**
                                                                        
-A Dynamic Cloud & Server Engineer with near to 2 years of experience in cloud infrastructure, hybrid cloud, automation, system administration, and troubleshooting. Proficient in AWS, Linux (RHEL, CentOS, Ubuntu), Azure, Windows Server, Docker, Ansible, Terraform and CI/CD pipelines (Jenkins, GitHub Actions). Expertise in cloud security, auto-scaling architecture, server virtualization, and infrastructure optimization. Proven track record in managing customer queries, providing exceptional service, and solving complex technical issues efficiently. Excellent communicator with strong time management skills, committed to continuous learning and professional growth. 
+AWS Certified Solutions Architect – Associate and Cloud & Infrastructure Engineer with+ ye near to 3 years of experience designing, deploying, and operating cloud and hybrid environments. Proven expertise in AWS and Azure, cloud automation, Terraform, CI/CD, virtualization, and enterprise infrastructure. Strong background in managing production systems, security controls, high availability, and disaster recovery across Linux, Windows, containerized, and multi-cloud platforms. Experienced in 24×7 operations, ITIL-based incident management, and collaborating with cross-functional engineering teams to deliver reliable and scalable systems. 
 
 📞 How to reach me varunsimha90@gmail.com
 
@@ -9,32 +9,26 @@ https://www.linkedin.com/in/varunsimha-m-p-2a90591b5/ ||  https://github.com/var
 
 **Skills:**
 
-Cloud Platforms: AWS (EC2, ECS, RDS, S3, IAM, Route 53, Lambda, CloudWatch and many more) | Azure (VM, VNets, backups, monitor alerts) 
-
-DevOps Tools: Docker, Git, CI/CD Pipeline (Jenkins, GitHub Actions). 
-
-Infrastructure as code: Terraform, Ansible. 
-
-Operating System: Linux (Red hat, CentOS, Ubuntu, Debian), Windows. 
-
-Networking: TCP/IP, DNS, Load Balancers, VPN, VPC, NAT Gateway. 
-
-Soft Skills: Problem-Solving | Communication | Collaboration | Troubleshooting | Leadership. 
+• Cloud Platforms: AWS and Azure. 
+• DevOps Tools: Terraform, Docker, Kubernetes, Ansible, Git, CI/CD Pipeline (Jenkins, GitHub Actions). 
+• Infrastructure as code (IaC): Terraform, Ansible. 
+• Programming and Scripting: Python, Bash, PowerShell. 
+• Database: MySQL, NoSQL, RDS, DynamoDB. 
+• Operating System: Linux (Red hat, CentOS, Ubuntu, Debian), Windows. 
+• Networking: TCP/IP, DNS, Load Balancers, VPN, VPC, NAT Gateway. 
+• Soft Skills: Problem-Solving | Communication | Collaboration | Troubleshooting | Leadership. p. 
 
 **Projects:**
 
-**Automated CI/CD for Serverless Django on AWS:** Jenkins triggers Dockerized Django deployments on ECS Fargate via ECR, ALB, RDS, and Route 53, ensuring zero-downtime updates.
-
-**Secure Multi-Tier Web App on AWS:** Implements VPC isolation, RDS, S3, ACM, ALB, NAT Gateway, and VPC peering for secure, scalable, and cost-optimized architecture.
-
-**Building Scalable AWS Architecture with Terraform Automation:** Designed and automated AWS infrastructure using Terraform, implementing VPCs, EC2, RDS (multi-AZ), ALB, Route 53, scalability, and efficient resource management with Infrastructure as Code (IaC).
+**End-to-End DevOps Project on AWS using Terraform, Kubernetes, Jenkins (CI/CD), GitOps, Argo CD with Full 
+Prometheus Monitoring & Grafana Visualization for Python Application :** Implemented a complete DevOps pipeline on AWS by automating infrastructure provisioning with Terraform (S3 
+remote state) and deploying containerized applications on Amazon EKS using Docker and Helm. Integrated Jenkins for CI and Argo CD for GitOps-based CD, along with ECR for image storage and EFS for stateful workloads. Configured ALB Ingress with ACM certificates and Route 53 for secure traffic routing and established full-stack monitoring using Prometheus and Grafana with RBAC-based dashboards and alerting. 
 
 **Certifications:**
 
-• AWS Certified Cloud Practitioner, AWS 
-
+• AWS Certified Solution Architect – Associate (SAA-C03), Amazon Webservices 
+• AWS Certified Cloud Practitioner (CLF-C02), Amazon Webservices 
+• Well-Architected Proficient, Amazon Webservices 
 • Containerization with Docker: Beginner to Expert - Udemy 
-
-• AWS Services for Solutions Architect Associate - Udemy 
-
 • NDG Linux Essentials - Cisco Networking Academy 
+• AWS Certified Cloud Practitioner, AWS 
