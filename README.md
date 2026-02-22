@@ -10,13 +10,20 @@ https://www.linkedin.com/in/varunsimha-m-p-2a90591b5/ ||  https://github.com/var
 **Skills:**
 
 • Cloud Platforms: AWS and Azure. 
+
 • DevOps Tools: Terraform, Docker, Kubernetes, Ansible, Git, CI/CD Pipeline (Jenkins, GitHub Actions). 
+
 • Infrastructure as code (IaC): Terraform, Ansible. 
+
 • Programming and Scripting: Python, Bash, PowerShell. 
+
 • Database: MySQL, NoSQL, RDS, DynamoDB. 
+
 • Operating System: Linux (Red hat, CentOS, Ubuntu, Debian), Windows. 
+
 • Networking: TCP/IP, DNS, Load Balancers, VPN, VPC, NAT Gateway. 
-• Soft Skills: Problem-Solving | Communication | Collaboration | Troubleshooting | Leadership. p. 
+
+• Soft Skills: Problem-Solving | Communication | Collaboration | Troubleshooting | Leadership. 
 
 **Projects:**
 
@@ -27,8 +34,11 @@ remote state) and deploying containerized applications on Amazon EKS using Docke
 **Certifications:**
 
 • AWS Certified Solution Architect – Associate (SAA-C03), Amazon Webservices 
+
 • AWS Certified Cloud Practitioner (CLF-C02), Amazon Webservices 
+
 • Well-Architected Proficient, Amazon Webservices 
+
 • Containerization with Docker: Beginner to Expert - Udemy 
+
 • NDG Linux Essentials - Cisco Networking Academy 
-• AWS Certified Cloud Practitioner, AWS 
