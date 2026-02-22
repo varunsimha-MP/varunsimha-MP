@@ -1,6 +1,6 @@
                                                         **Hi 👋, I'm Varunsimha M P**
                                                                        
-AWS Certified Solutions Architect – Associate and Cloud & Infrastructure Engineer with+ ye near to 3 years of experience designing, deploying, and operating cloud and hybrid environments. Proven expertise in AWS and Azure, cloud automation, Terraform, CI/CD, virtualization, and enterprise infrastructure. Strong background in managing production systems, security controls, high availability, and disaster recovery across Linux, Windows, containerized, and multi-cloud platforms. Experienced in 24×7 operations, ITIL-based incident management, and collaborating with cross-functional engineering teams to deliver reliable and scalable systems. 
+AWS Certified Solutions Architect – Associate and Cloud & Infrastructure Engineer with near to 3 years of experience designing, deploying, and operating cloud and hybrid environments. Proven expertise in AWS and Azure, cloud automation, Terraform, CI/CD, virtualization, and enterprise infrastructure. Strong background in managing production systems, security controls, high availability, and disaster recovery across Linux, Windows, containerized, and multi-cloud platforms. Experienced in 24×7 operations, ITIL-based incident management, and collaborating with cross-functional engineering teams to deliver reliable and scalable systems. 
 
 📞 How to reach me varunsimha90@gmail.com
 
